@@ -1,2 +1,3 @@
-# Image_Divide
-画像を4分割に．
+### Image_Divide
+
+##### もっといい書き方があるはず
